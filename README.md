@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm a Computer Science Student! 👋
 
-<!--
-**CS-MSC/CS-MSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student studying Computer Science Engineering, with a strong interest in software engineering and cybersecurity.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Currently learning Python through the 30 Days of Python challenge.
+
+☕ Experienced with programming in Java through the American Computer Science League (ACSL).
+
+🔐 Completed Cisco's Introduction to Cybersecurity course.
+
+💻 Interested in software development, algorithms, and cybersecurity.
+
+🚀 Building my programming skills through practical projects and challenges.
+
+Technical Skills
+
+Languages: Java, Python (learning)
+
+Currently exploring: Git, GitHub, cybersecurity fundamentals
+
+Current Goals
+
+Strengthen my Python and Java programming skills.
+
+Develop practical software engineering and cybersecurity projects.
+
+Improve my algorithmic problem-solving abilities.
+
+Prepare for future software engineering and cybersecurity internships.
+
+Projects
+
+Projects and documentation coming soon!
