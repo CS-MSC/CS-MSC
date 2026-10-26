@@ -22,14 +22,14 @@ Currently exploring: Git, GitHub, cybersecurity fundamentals
 
 Current Goals
 
-Strengthen my Python and Java programming skills.
+  Strengthen my Python and Java programming skills.
 
-Develop practical software engineering and cybersecurity projects.
+  Develop practical software engineering and cybersecurity projects.
 
-Improve my algorithmic problem-solving abilities.
+  Improve my algorithmic problem-solving abilities.
 
-Prepare for future software engineering and cybersecurity internships.
+  Prepare for future software engineering and cybersecurity internships.
 
 Projects
 
-Projects and documentation coming soon!
+  Projects and documentation coming soon!
